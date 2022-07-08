@@ -35,20 +35,20 @@ Pull requests are welcome with the condition that the resource should be free!
 
 ## Level 1 - Intro
 
-- [ ] OpenVPN <https://tryhackme.com/room/openvpn>
-- [ ] Welcome <https://tryhackme.com/jr/welcome>
-- [ ] Intro to Researching <https://tryhackme.com/room/introtoresearch>
-- [ ] Learn Linux <https://tryhackme.com/room/zthlinux>
-- [ ] Pentesting fundamentals <https://tryhackme.com/room/pentestingfundamentals>
-- [ ] Principles of security <https://tryhackme.com/room/principlesofsecurity>
-- [ ] Red Team Engagements <https://tryhackme.com/room/redteamengagements>
-- [ ] Crash Course Pentesting <https://tryhackme.com/room/ccpentesting>
+- [x] OpenVPN <https://tryhackme.com/room/openvpn>
+- [x] Welcome <https://tryhackme.com/jr/welcome>
+- [x] Intro to Researching <https://tryhackme.com/room/introtoresearch>
+- [x] Learn Linux <https://tryhackme.com/room/zthlinux>
+- [x] Pentesting fundamentals <https://tryhackme.com/room/pentestingfundamentals>
+- [x] Principles of security <https://tryhackme.com/room/principlesofsecurity>
+- [x] Red Team Engagements <https://tryhackme.com/room/redteamengagements>
+- [x] Crash Course Pentesting <https://tryhackme.com/room/ccpentesting>
 
 **Introductory CTFs to get your feet wet**
 
-- [ ] Google Dorking <https://tryhackme.com/room/googledorking>
-- [ ] OHsint <https://tryhackme.com/room/ohsint>
-- [ ] Shodan.io <https://tryhackme.com/room/shodan>
+- [x] Google Dorking <https://tryhackme.com/room/googledorking>
+- [x] OHsint <https://tryhackme.com/room/ohsint>
+- [x] Shodan.io <https://tryhackme.com/room/shodan>
 
 # Free-Beginner-Red-Team-Path
 
